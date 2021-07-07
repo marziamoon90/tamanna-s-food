@@ -1,0 +1,55 @@
+*{
+    font-family: 'Poppins', sans-serif;
+    padding: 0%;
+    margin: 0%;
+}
+/* ------My self------ */
+
+.hello{
+    font-size: 50px;
+    
+}
+.blue{
+    color: blue;
+    font-weight: 700;
+    font-size: 1em;
+}
+
+.my-self{
+    display: flex;
+    margin-top: 5%;
+}
+.first-part{
+    width: 40%;
+    color: rgb(54, 50, 50);
+    text-align: left;
+    margin-left: 5%;
+}
+.first-part img{
+    height: 550px;
+    width: 550px;
+}
+   .first-part p{
+      width: 80%;
+      text-align: justify;
+      margin-bottom: 30px;
+   }
+   .first-part h1{
+       font-size: 2em;
+   }
+   
+   .get-me{
+    text-decoration: none;
+    background-image: linear-gradient(rgb(223, 212, 193), red);
+    padding: 8px 30px;
+    border-radius: 15px;
+    color: rgb(15, 15, 15);
+    font-weight: 700;
+   
+   }
+   
+/* ------cake------ */
+
+
+
+  
